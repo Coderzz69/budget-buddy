@@ -1,4 +1,4 @@
-expense_tracker/
+budget-buddy/
 ├── backend/                       # Backend source code
 │   ├── manage.py                  # Django CLI entry point
 │   ├── .env                       # Environment variables
